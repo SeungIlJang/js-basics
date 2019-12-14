@@ -1,6 +1,7 @@
 body{
     color:white;
     font-size: 30px;
+    text-align: center;
 }
 .form,
 .greetings{
@@ -17,4 +18,10 @@ body{
     height: 100%;
     z-index: -1;
     animation: fadeIn 0.5s linear;
+}
+.js-clock{
+    font-size: 60px;
+}
+.js-greetings{
+    font-size: 50px;
 }
